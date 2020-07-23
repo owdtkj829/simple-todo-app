@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "simple-todo-app"
+    }
+  },
+  "defaultProject": "simple-todo-app",
+  "cli": {
+    "analytics": false
+  }
 }
